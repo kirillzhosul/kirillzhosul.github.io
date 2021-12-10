@@ -1,5 +1,3 @@
-title: Kirill Zhosul
-
 <h1 align="center">
   ⚡Kirill Zhosul⚡
 </h1>
