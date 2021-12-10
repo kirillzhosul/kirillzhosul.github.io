@@ -7,5 +7,5 @@
 <p align="center">
   <a href="mailto: kirill_zhosul@vk.com">Mail</a> •
   <a href="https://vk.com/kirillzhosul">VK</a> •
-  <a href="https://github.com/kirillzhosul">GitHub</a>•
+  <a href="https://github.com/kirillzhosul">GitHub</a>
 </p>
