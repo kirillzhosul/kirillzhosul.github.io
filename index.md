@@ -1,8 +1,5 @@
-<html>
-  <head>
-    <title>Kirill Zhosul</title>
-  </head>
-</html>
+title: Kirill Zhosul
+
 <h1 align="center">
   ⚡Kirill Zhosul⚡
 </h1>
