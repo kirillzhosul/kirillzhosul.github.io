@@ -9,3 +9,35 @@
   <a href="https://vk.com/kirillzhosul">VK</a> •
   <a href="https://github.com/kirillzhosul">GitHub</a>
 </p>
+
+<hr>
+
+<h3 align="center">Projects</h3>
+<p align="center">
+  <div align="center">
+    Games<br>
+    <img src="/previews/old-tunnel.jpg" width=45%></img>
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    Tools<br>
+    <a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Paint Editor</a> • <a href="https://github.com/kirillzhosul/python-remote-access">Remote Access</a>
+    <br>
+    <img src="/previews/preview.png" width=45%></img>
+    &nbsp;&nbsp;&nbsp;
+    <img src="/previews/remote-access.png" width=45%></img>
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    Other<br>
+    <a href="https://github.com/kirillzhosul/gamemaker-sorting-visualization">Sorting Visualization</a> • <a href="https://github.com/kirillzhosul/gamemaker-world-generation">World Visualization</a>
+    <br>
+    <img src="/previews/sorting-visualization.gif" width=45%></img>
+    &nbsp;&nbsp;&nbsp;
+    <img src="/previews/world-generation.gif" width=45%></img>
+  </div>
+</p>
