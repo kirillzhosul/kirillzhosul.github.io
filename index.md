@@ -15,6 +15,13 @@
 <h3 align="center">Projects</h3>
 <p align="center">
   <div align="center">
+    Websites<br>
+    <a href="https://github.com/kirillzhosul/web-casino">Casino Website</a>
+    <br>
+  </div>
+  
+  <br>
+  <div align="center">
     Tools<br>
     <a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Paint Editor</a> • <a href="https://github.com/kirillzhosul/python-remote-access">Remote Access</a>
     <br>
