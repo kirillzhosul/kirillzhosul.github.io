@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+
 <h3 align="center">Welcome</h3>
 <p align="center">
   Welcome to my profile page, I’m was working on a lot of different projects (and programming languages) for all the time (more than 4-5 years), like Websites, Games, Applications and a lot of other things (<code>Flask/Python</code>, <code>Unity/C#</code>, <code>GML</code>, <code>C/C++</code>, <code>JS/HTML/CSS/SQL</code>, and much more).
