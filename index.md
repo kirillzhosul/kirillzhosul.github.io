@@ -39,6 +39,6 @@ I also tried to work with something like <code>C/C++/Assembly/PHP, CSS</code> an
   <a href="https://t.me/kirillzhosul">Telegram</a><br>
   Development<br>
   <a href="https://github.com/kirillzhosul">GitHub</a> •
-  <a href="https://www.codewars.com/users/Kirill%20Zhosu">CodeWars</a> •
+  <a href="https://www.codewars.com/users/Kirill%20Zhosul">CodeWars</a> •
   <a href="https://kirillzhosul.itch.io/">Itch</a>
 </p>
