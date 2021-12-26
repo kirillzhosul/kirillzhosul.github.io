@@ -1,5 +1,5 @@
 
-<h6 align="center">Not English?<br><a href="kirillzhosul.github.io/ru/">Русская версия</a></h6>
+<h6 align="center">Not English?<br><a href="https://kirillzhosul.github.io/ru/">Русская версия</a></h6>
 <hr>
 
 <h3 align="center">Welcome</h3>
