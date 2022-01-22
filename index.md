@@ -5,31 +5,6 @@
 <h3 align="center">Welcome</h3>
 <p align="center">
   Welcome to my profile page, I’m was working on a lot of different projects (and with different programming languages / technologies) for all the time (more about 3 years), like <code>Websites</code>, <code>Games</code>, <code>Applications</code> and other.<br>
-
-</p>
-<hr>
-<h3 align="center">Languages</h3>
-<p align="center">
-<code>Python (Flask)</code> • <code>C# (Unity)</code> • <code>GML (GM)</code> • <code>JavaScript (JQuery)</code> • <code>HTML (Bootstrap, Jinja)</code> • <code>SQL</code><br>
-I also tried to work with something like <code>C/C++/Assembly/PHP, CSS</code> and other...
-</p>
-
-<hr>
-
-<h3 align="center">Projects</h3>
-<p align="center">
-  <div align="center">
-    Websites<br>
-    <a href="https://github.com/kirillzhosul/web-casino">Casino Website</a>
-  </div>
-  <div align="center">
-    Tools<br>
-    <a href="https://github.com/kirillzhosul/gamemaker-paint-editor">Paint Editor</a> • <a href="https://github.com/kirillzhosul/python-remote-access">Remote Access</a>
-  </div>
-  <div align="center">
-    Other<br>
-    <a href="https://github.com/kirillzhosul/gamemaker-sorting-visualization">Sorting Visualization</a> • <a href="https://github.com/kirillzhosul/gamemaker-world-generation">World Visualization</a>
-  </div>
 </p>
 
 <hr>
