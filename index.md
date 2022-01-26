@@ -8,6 +8,14 @@
 </p>
 
 <hr>
+
+<h3 align="center">Pages (Projects)</h3>
+<p align="center">
+  <a href="https://kirillzhosul.github.io/gamemaker-scheduler">[Library] GML Scheduler</a><br>
+  <a href="https://kirillzhosul.github.io/gamemaker-paint-editor">[Application] Paint Editor</a>
+</p>
+
+<hr>
 <h3 align="center">Links</h3>
 <p align="center">
   Mail<br>
