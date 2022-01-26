@@ -25,3 +25,5 @@
   <a href="https://www.codewars.com/users/Kirill%20Zhosul">CodeWars</a> •
   <a href="https://kirillzhosul.itch.io/">Itch</a>
 </p>
+
+[![Analytics](https://ga-beacon.appspot.com/G-JK68YFSWT3/welcome-page)](https://github.com/igrigorik/ga-beacon)
