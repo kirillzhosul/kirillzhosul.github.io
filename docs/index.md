@@ -25,13 +25,3 @@
   <a href="https://www.codewars.com/users/Kirill%20Zhosul">CodeWars</a> •
   <a href="https://kirillzhosul.itch.io/">Itch</a>
 </p>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HB89E03X23"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HB89E03X23');
-</script>
