@@ -1,7 +1,3 @@
-
-<h6 align="center">Not English?<br><a href="https://kirillzhosul.github.io/ru/">Русская версия</a></h6>
-<hr>
-
 <h3 align="center">Welcome</h3>
 <p align="center">
   Welcome to my profile page, I’m was working on a lot of different projects (and with different programming languages / technologies) for all the time (more about 3 years), like <code>Websites</code>, <code>Games</code>, <code>Applications</code> and other.<br>
