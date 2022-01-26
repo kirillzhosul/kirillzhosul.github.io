@@ -1,6 +1,10 @@
+# Base.
 theme: jekyll-theme-minimal
 
+# Web.
 logo: https://avatars.githubusercontent.com/u/79853674
-
 title: Kirill Zhosul
 description: <i>Programmer</i> - <i>Developer</i> <br><code>GML</code> • <code>Python</code> • <code>C#</code><br>
+
+# Google Analytics.
+google_analytics: G-HB89E03X23
