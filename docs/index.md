@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kirillzhosul/kirillzhosul.github.io/main/docs/previews/old-tunnel.jpg">
+  <img src="https://raw.githubusercontent.com/kirillzhosul/kirillzhosul/main/img/banner.jpg">
 </p>
 <hr>
 
