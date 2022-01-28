@@ -27,6 +27,5 @@
   <a href="https://t.me/kirillzhosul">Telegram</a><br>
   Development<br>
   <a href="https://github.com/kirillzhosul">GitHub</a> •
-  <a href="https://www.codewars.com/users/Kirill%20Zhosul">CodeWars</a> •
-  <a href="https://kirillzhosul.itch.io/">Itch</a>
+  <a href="https://www.codewars.com/users/Kirill%20Zhosul">CodeWars</a>
 </p>
