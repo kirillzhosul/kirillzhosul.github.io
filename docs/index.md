@@ -10,10 +10,12 @@
 
 <hr>
 
-<h3 align="center">Pages (Projects)</h3>
+<h3 align="center">Projects (WIP)</h3>
 <p align="center">
+  <a href="https://gofra-lang.github.io">[Other] Programming Language (Gofra)</a><br>
   <a href="https://kirillzhosul.github.io/gamemaker-scheduler">[Library] GML Scheduler</a><br>
-  <a href="https://kirillzhosul.github.io/gamemaker-paint-editor">[Application] Paint Editor</a>
+  <a href="https://kirillzhosul.github.io/gamemaker-paint-editor">[Application] Paint Editor</a><br>
+  <a href="https://github.com/kirillzhosul/web-url-shortener/">[Website] URL Shortener</a>
 </p>
 
 <hr>
