@@ -18,6 +18,5 @@
 <h3 align="center">Contacts</h3>
 <p align="center">
   <a href="mailto: kirill_zhosul@vk.com">kirill_zhosul@vk.com</a><br>
-  Other
   <a href="https://t.me/kirillzhosul">Telegram</a>
 </p>
