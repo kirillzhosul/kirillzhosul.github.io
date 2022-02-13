@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kirillzhosul/kirillzhosul/main/img/banner.jpg">
-</p>
-<hr>
-
-<h3 align="center">Welcome</h3>
-<p align="center">
-  Here should be something special about me, but I don`t know what to write here.
-</p>
-
-<hr>
-
 <h3 align="center">Projects</h3>
 <p align="center">
   <span>Other</span><br>
@@ -22,7 +10,7 @@
   <a href="https://github.com/kirillzhosul/web-url-shortener/">Flask simple URL shortener</a>,<br>
   <a href="https://github.com/kirillzhosul/web-merchandise-shop">Flask simple merchandise shop</a>.<br>
   <br>
-  And many more private WIP projects...
+  [Most part of the projects is WIP and private!]
 </p>
 
 
@@ -30,5 +18,6 @@
 <h3 align="center">Contacts</h3>
 <p align="center">
   <a href="mailto: kirill_zhosul@vk.com">kirill_zhosul@vk.com</a><br>
+  Other
   <a href="https://t.me/kirillzhosul">Telegram</a>
 </p>
