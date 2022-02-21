@@ -1,7 +1,7 @@
 <h3 align="center">Projects</h3>
 <p align="center">
   <span>Other</span><br>
-  <a href="https://gofra-lang.github.io">Gofra programming language (WIP)</a>.<br>
+  <a href="https://gofralang.github.io">Gofra programming language (WIP)</a>.<br>
   <span>Libraries</span><br>
   <a href="https://kirillzhosul.github.io/gamemaker-scheduler">GML Scheduler</a>.<br>
   <span>Applications</span><br>
