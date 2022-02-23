@@ -1,18 +1,35 @@
-<h3 align="center">Projects</h3>
+<h1 align="center">Projects</h1>
+
+<h3 align="center">Other</h3>
 <p align="center">
-  <span>Other</span><br>
-  <a href="https://gofralang.github.io">Gofra programming language (WIP)</a>.<br>
-  <span>Libraries</span><br>
-  <a href="https://kirillzhosul.github.io/gamemaker-scheduler">GML Scheduler</a>.<br>
-  <span>Applications</span><br>
-  <a href="https://kirillzhosul.github.io/gamemaker-paint-editor">GML Paint editor</a>.<br>
-  <span>Websites (Flask)</span><br>
-  <a href="https://github.com/kirillzhosul/web-url-shortener/">URL Shortener</a>,<br>
-  <a href="https://github.com/kirillzhosul/web-merchandise-shop">Merchandise shop</a>.<br>
-  <br>
-  [Most part of the projects is WIP and private!]
+  <a href="https://gofralang.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gofralang&repo=core&show_owner=true"></img>
+  </a>
 </p>
 
+<h3 align="center">Libraries</h3>
+<p align="center">
+  <a href="https://kirillzhosul.github.io/gamemaker-scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=gamemaker-scheduler&show_owner=true"></img>
+  </a>
+</p>
+
+<h3 align="center">Apps</h3>
+<p align="center">
+  <a href="https://kirillzhosul.github.io/gamemaker-paint-editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=gamemaker-paint-editor&show_owner=true"></img>
+  </a>
+</p>
+
+<h3 align="center">Web</h3>
+<p align="center">
+  <a href="https://github.com/kirillzhosul/web-merchandise-shop/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-merchandise-shop&show_owner=true"></img>
+  </a>
+  <a href="https://github.com/kirillzhosul/web-url-shortener/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-url-shortener&show_owner=true"></img>
+  </a>
+</p>
 
 <hr>
 <h3 align="center">Contacts</h3>
