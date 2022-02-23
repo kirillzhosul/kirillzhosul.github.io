@@ -1,3 +1,11 @@
+<h1 align="center">Contacts</h1>
+<h4 align="center"><a href="mailto: kirill_zhosul@vk.com">kirill_zhosul@vk.com</a></h4>
+<p align="center">
+  <a href="https://vk.com/kirillzhosul">VK</a> •
+  <a href="https://t.me/kirillzhosul">Telegram</a>
+</p>
+<hr>
+
 <h1 align="center">Projects</h1>
 
 <h3 align="center">Other</h3>
@@ -29,12 +37,4 @@
   <a href="https://github.com/kirillzhosul/web-url-shortener/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-url-shortener&show_owner=true"></img>
   </a>
-</p>
-
-<hr>
-<h3 align="center">Contacts</h3>
-<h4 align="center"><a href="mailto: kirill_zhosul@vk.com">kirill_zhosul@vk.com</a></h4>
-<p align="center">
-  <a href="https://vk.com/kirillzhosul">VK</a> •
-  <a href="https://t.me/kirillzhosul">Telegram</a>
 </p>
