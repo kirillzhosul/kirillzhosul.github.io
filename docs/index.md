@@ -11,7 +11,7 @@
 <h3 align="center">Other</h3>
 <p align="center">
   <a href="https://gofralang.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gofralang&repo=core&show_owner=true"><
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gofralang&repo=core&show_owner=true">
   </a>
 </p>
 
