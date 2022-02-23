@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/kirillzhosul">
-    <img src="https://github-readme-stats.vercel.app/api?username=kirillzhosul&show_icons=true&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=kirillzhosul&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&hide_title=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=kirillzhosul&column=7&no-frame=true">
   </a>
 </p>
 
