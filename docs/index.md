@@ -4,8 +4,17 @@
   <a href="https://vk.com/kirillzhosul">VK</a> •
   <a href="https://t.me/kirillzhosul">Telegram</a>
 </p>
-<hr>
 
+<hr>
+<h1 align="center">GitHub Statistics</h1>
+
+<p align="center">
+  <a href="https://github.com/kirillzhosul">
+    <img src="https://github-readme-stats.vercel.app/api?username=kirillzhosul&show_icons=true&include_all_commits=true&count_private=true">
+  </a>
+</p>
+
+<hr>
 <h1 align="center">Projects</h1>
 
 <h3 align="center">Other</h3>
