@@ -46,4 +46,7 @@
   <a href="https://github.com/kirillzhosul/web-url-shortener/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-url-shortener&show_owner=true">
   </a>
+  <a href="https://github.com/kirillzhosul/web-video-hosting/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-video-hosting&show_owner=true">
+  </a>
 </p>
