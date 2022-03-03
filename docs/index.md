@@ -26,27 +26,27 @@
 
 <h3 align="center">Libraries</h3>
 <p align="center">
-  <a href="https://kirillzhosul.github.io/gamemaker-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=gamemaker-scheduler&show_owner=true">
+  <a href="https://kirillzhosul.github.io/scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=scheduler&show_owner=true">
   </a>
 </p>
 
 <h3 align="center">Apps</h3>
 <p align="center">
-  <a href="https://kirillzhosul.github.io/gamemaker-paint-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=gamemaker-paint-editor&show_owner=true">
+  <a href="https://kirillzhosul.github.io/paint-editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=paint-editor&show_owner=true">
   </a>
 </p>
 
 <h3 align="center">Web</h3>
 <p align="center">
-  <a href="https://github.com/kirillzhosul/web-merchandise-shop/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-merchandise-shop&show_owner=true">
+  <a href="https://github.com/kirillzhosul/merchandise-shop/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=merchandise-shop&show_owner=true">
   </a>
-  <a href="https://github.com/kirillzhosul/web-url-shortener/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-url-shortener&show_owner=true">
+  <a href="https://github.com/kirillzhosul/url-shortener/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=url-shortener&show_owner=true">
   </a>
-  <a href="https://github.com/kirillzhosul/web-video-hosting/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=web-video-hosting&show_owner=true">
+  <a href="https://github.com/kirillzhosul/video-hosting/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=video-hosting&show_owner=true">
   </a>
 </p>
