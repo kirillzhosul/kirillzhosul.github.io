@@ -1,5 +1,5 @@
 <h1 align="center">Contacts</h1>
-<h4 align="center"><a href="mailto: kirill_zhosul@vk.com">kirill_zhosul@vk.com</a></h4>
+<h4 align="center"><a href="mailto: kirillzhosul@yandex.com">kirillzhosul@yandex.com</a></h4>
 <p align="center">
   <a href="https://vk.com/kirillzhosul">VK</a> •
   <a href="https://t.me/kirillzhosul">Telegram</a>
