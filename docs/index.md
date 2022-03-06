@@ -17,6 +17,25 @@
 <hr>
 <h1 align="center">Projects</h1>
 
+<h3 align="center">Web</h3>
+<p align="center">
+  <a href="https://github.com/kirillzhosul/notes/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=notes&show_owner=true">
+  </a>
+  <a href="https://github.com/kirillzhosul/merchandise-shop/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=merchandise-shop&show_owner=true">
+  </a>
+  <h3 align="center">WIP</h3>
+  <p align="center">
+    <a href="https://github.com/kirillzhosul/url-shortener/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=url-shortener&show_owner=true">
+    </a>
+    <a href="https://github.com/kirillzhosul/video-hosting/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=video-hosting&show_owner=true">
+    </a>
+  </p>
+</p>
+
 <h3 align="center">Other</h3>
 <p align="center">
   <a href="https://gofralang.github.io">
@@ -35,18 +54,5 @@
 <p align="center">
   <a href="https://kirillzhosul.github.io/paint-editor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=paint-editor&show_owner=true">
-  </a>
-</p>
-
-<h3 align="center">Web</h3>
-<p align="center">
-  <a href="https://github.com/kirillzhosul/merchandise-shop/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=merchandise-shop&show_owner=true">
-  </a>
-  <a href="https://github.com/kirillzhosul/url-shortener/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=url-shortener&show_owner=true">
-  </a>
-  <a href="https://github.com/kirillzhosul/video-hosting/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirillzhosul&repo=video-hosting&show_owner=true">
   </a>
 </p>
