@@ -1,6 +1,6 @@
 <h1 align="center">Welcome there!</h1>
 <p align="center">
-  You got on my personal site! Here you may find information about me and my projects. I am programmer - developer, doing development of websites, applications, games and many more.
+  You got on my personal site! Here you may find information about me and my projects. I am programmer - developer, an owner of <a href="http://florgon.space/">www.florgon.space</a>, doing development of websites, applications, games and many more.
 </p>
 <hr>
 
@@ -18,10 +18,8 @@
   
 <h1 align="center">Projects</h1>
 <p align="center">
-  There is some projects working under my domain:
-  <ul>
-    <li><a href="http://notes.kirillzhosul.site/">Notes taking website</a> (<a href="http://github.com/kirillzhosul/notes">Source code</a>)</li>
-  </ul>
+  <a href="http://florgon.space/">www.florgon.space</a>
+  <li><a href="http://notes.kirillzhosul.site/">www.notes.kirillzhosul.site</a>
 </p>
 <hr>
   
