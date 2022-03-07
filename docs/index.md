@@ -19,7 +19,7 @@
 <h1 align="center">Projects</h1>
 <p align="center">
   <a href="http://florgon.space/">www.florgon.space</a>
-  <li><a href="http://notes.kirillzhosul.site/">www.notes.kirillzhosul.site</a>
+  <a href="http://notes.kirillzhosul.site/">www.notes.kirillzhosul.site</a>
 </p>
 <hr>
   
