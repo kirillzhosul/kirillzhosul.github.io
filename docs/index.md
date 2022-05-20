@@ -2,6 +2,7 @@
 <p align="center">
   You got on my personal site! Here you may find information about me. I am programmer - developer, an owner of <a href="http://florgon.space/">florgon.space</a>, doing development of websites, applications, games and many more.
 </p>
+
 <hr>
 
 <h1 align="center">How to reach me</h1>
@@ -14,17 +15,9 @@
     <a href="https://users.florgon.space/kirillzhosul">Florgon</a>
   <p>
 </p>
+  
 <hr>
   
-<h1 align="center">Projects</h1>
-<p align="center">
-  <a href="http://florgon.space/">www.florgon.space</a>
-  <a href="http://notes.kirillzhosul.site/">www.notes.kirillzhosul.site</a>
-</p>
-<hr>
-  
-<h1 align="center">GitHub</h1>
-<h3 align="center">Statistcs</h3>
 <p align="center">
   <a href="https://github.com/kirillzhosul">
     <img src="https://github-readme-stats.vercel.app/api?username=kirillzhosul&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&hide_title=true">
