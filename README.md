@@ -1,1 +1,3 @@
-<a href="https://kirillzhosul.github.io"><img src="https://raw.githubusercontent.com/kirillzhosul/kirillzhosul/main/img/header.png" alt="loading"></a>
+# [kirillzhosul.github.io](https://kirillzhosul.github.io)
+GitHub Pages personal website, currently used only as boilerplate. \
+You may visit [my personal website](https://kirillzhosul.site)!
